@@ -8,10 +8,10 @@ ul{
 }
 
 body{
-    background-image: url(./assets/bg.jpg);
+    /* background-image: url(./assets/bg.jpg);
     background-position: top center;
-    background-size: 100% auto;
-    /* background-image: linear-gradient(90deg, #00000000 0%, #351e53 50.52%, #61246667 100%); */
+    background-size: 100% auto; */
+    background-image: linear-gradient(90deg, #00000000 0%, #351e53 50.52%, #61246667 100%);
     background-repeat: no-repeat;
     background-color: #121214;
 }
